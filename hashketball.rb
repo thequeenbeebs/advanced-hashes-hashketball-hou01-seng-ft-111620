@@ -221,7 +221,7 @@ def most_points_scored
   points_player
 end
 
-def big_shoe_rebounds
+#def big_shoe_rebounds
   biggest_shoe = 0
   rebounds = 0
   game_hash.each do |home_or_away, team_data|
